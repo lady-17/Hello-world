@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>plaquiste La Rochelle</title>
+
+    <!-- CSS file -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="personnalisation.css" rel="stylesheet">
+
+</head>
+<body>
+
+    <!-- Début section HEADER -->
+      <header>
+      
+          <!-- Début navigation -->                  
+            <nav>
+                <div class="container">
+                    <div class="row">
+                        <div class="image">
+                            <div class="logo"></div>
+                        </div> 
+                            <div class="content"> 
+                                <ul id="menu">
+                                    <li><a href="#" class="header">Accueil</a></li>
+                                    <li><a href="#" class="activite">Activité principale</a></li>
+                                    <li><a href="#" class="deco">Placo deco</a></li>
+                                    <li><a href="#" class="avant_apres">Avant/Après</a></li>
+                                    <li><a href="#" class="realisations">Gallerie</a></li>
+                                    <li><a href="#" class="contact">Contact</a></li>
+                                </ul>
+                                <!-- <div class="menu-button" id="menu-button"><img class="icone responsive-menu" src="images/icons/responsive-menu.svg" alt="Icone menu" /> <p>Menu</p></div> -->
+                            </div>        
+                      </div>
+                  </div>
+              </nav>
+          </header>
